@@ -1,0 +1,23 @@
+{
+  "entity.five_nights_at_minecraft.freddy": "Freddy",
+  "entity.five_nights_at_minecraft.bonnie": "Bonnie",
+  "entity.five_nights_at_minecraft.chica": "Chica",
+  "entity.five_nights_at_minecraft.foxy": "Foxy",
+  "entity.five_nights_at_minecraft.golden_freddy": "Golden Freddy",
+  "item.five_nights_at_minecraft.freddy_spawn_egg": "Freddy Spawn Egg",
+  "item.five_nights_at_minecraft.bonnie_spawn_egg": "Bonnie Spawn Egg",
+  "item.five_nights_at_minecraft.chica_spawn_egg": "Chica Spawn Egg",
+  "item.five_nights_at_minecraft.foxy_spawn_egg": "Foxy Spawn Egg",
+  "item.five_nights_at_minecraft.golden_freddy_spawn_egg": "Golden Freddy Spawn Egg",
+  "subtitle.five_nights_at_minecraft.footsteps": "Footsteps...",
+  "subtitle.five_nights_at_minecraft.spotsyou": "Freddy spots you!",
+  "subtitle.five_nights_at_minecraft.jumpscare": "JUMPSCARE",
+  "subtitle.five_nights_at_minecraft.laugh": "Laughter",
+  "subtitle.five_nights_at_minecraft.groan": "Groaning",
+  "subtitle.five_nights_at_minecraft.knock": "Loud knocking",
+  "subtitle.five_nights_at_minecraft.sing": "Singing...",
+  "subtitle.five_nights_at_minecraft.voice": "A voice",
+  "subtitle.five_nights_at_minecraft.noise": "Static noise",
+  "subtitle.five_nights_at_minecraft.warning": "WARNING",
+  "death.attack.golden_freddy_bite": "%1$s head was bitten by Golden Freddy"
+}

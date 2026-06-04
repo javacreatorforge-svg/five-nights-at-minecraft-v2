@@ -1,0 +1,138 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.freddyfazbear.sit": {
+			"loop": true,
+			"bones": {
+				"MainCharacter": {
+					"position": [
+						0,
+						-13,
+						3
+					]
+				},
+				"LegL": {
+					"rotation": [
+						-142.57713,
+						1.91134,
+						-4.62111
+					],
+					"position": [
+						0,
+						0.5,
+						-4
+					]
+				},
+				"LowL": {
+					"rotation": [
+						142.5,
+						0,
+						0
+					]
+				},
+				"LfootL": {
+					"rotation": [
+						0,
+						-10,
+						5
+					]
+				},
+				"LegR": {
+					"rotation": [
+						-133.84829,
+						4.2246,
+						7.29502
+					],
+					"position": [
+						0,
+						1,
+						-4.5
+					]
+				},
+				"LfootR": {
+					"rotation": [
+						132.5,
+						0,
+						0
+					]
+				},
+				"FootR": {
+					"rotation": [
+						0,
+						7.5,
+						-7.5
+					]
+				},
+				"Head": {
+					"rotation": [
+						0,
+						5,
+						-47.5
+					],
+					"position": [
+						0,
+						-0.25,
+						-3.5
+					]
+				},
+				"Jaw": {
+					"rotation": [
+						17.5,
+						0,
+						0
+					]
+				},
+				"ArmL": {
+					"rotation": [
+						0,
+						-37.5,
+						0
+					]
+				},
+				"LarmL": {
+					"rotation": [
+						-52.5,
+						0,
+						0
+					]
+				},
+				"HandL": {
+					"rotation": [
+						65.26802,
+						56.52599,
+						78.4213
+					]
+				},
+				"ArmR": {
+					"rotation": [
+						0,
+						32.5,
+						0
+					]
+				},
+				"LarmR": {
+					"rotation": [
+						-50,
+						0,
+						0
+					]
+				},
+				"HandR": {
+					"rotation": [
+						-76.23228,
+						56.7385,
+						-78.42119
+					]
+				},
+				"Neck": {
+					"rotation": [
+						40,
+						0,
+						0
+					]
+				}
+			},
+			"animation_length": 1.0
+		}
+	}
+}

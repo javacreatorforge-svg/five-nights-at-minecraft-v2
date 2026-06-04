@@ -1,0 +1,250 @@
+{
+  "footsteps": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.footsteps",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:footsteps",
+        "stream": false
+      }
+    ]
+  },
+  "spotsyou": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.spotsyou",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:freddyspotsyou",
+        "stream": true
+      }
+    ]
+  },
+  "jumpscare": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.jumpscare",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:jumpscaresoundfreddy",
+        "stream": true
+      }
+    ]
+  },
+  "laugh1": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.laugh",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:freddylaugh",
+        "stream": true
+      }
+    ]
+  },
+  "laugh2": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.laugh",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:freddylaugh2",
+        "stream": true
+      }
+    ]
+  },
+  "laugh3": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.laugh",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:freddylaugh3",
+        "stream": true
+      }
+    ]
+  },
+  "laugh": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.laugh",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:freddylaugh",
+        "stream": true
+      },
+      {
+        "name": "five_nights_at_minecraft:freddylaugh2",
+        "stream": true
+      },
+      {
+        "name": "five_nights_at_minecraft:freddylaugh3",
+        "stream": true
+      }
+    ]
+  },
+  "bonnie_footsteps": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.footsteps",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:bonnie_footsteps",
+        "stream": false
+      }
+    ]
+  },
+  "bonnie_jumpscare": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.jumpscare",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:bonnie_jumpscare",
+        "stream": true
+      }
+    ]
+  },
+  "chica_footsteps": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.footsteps",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:chica_footsteps",
+        "stream": false
+      }
+    ]
+  },
+  "chica_groan1": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.groan",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:chica_groan1",
+        "stream": true
+      }
+    ]
+  },
+  "chica_groan2": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.groan",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:chica_groan2",
+        "stream": true
+      }
+    ]
+  },
+  "chica_groan3": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.groan",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:chica_groan3",
+        "stream": true
+      }
+    ]
+  },
+  "chica_jumpscare": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.jumpscare",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:chica_jumpscare",
+        "stream": true
+      }
+    ]
+  },
+  "foxy_footsteps": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.footsteps",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:foxy_footsteps",
+        "stream": false
+      }
+    ]
+  },
+  "foxy_jumpscare": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.jumpscare",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:foxy_jumpscare",
+        "stream": true
+      }
+    ]
+  },
+  "foxy_knocking": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.knock",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:foxy_knocking",
+        "stream": true
+      }
+    ]
+  },
+  "foxy_singing": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.sing",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:foxy_singing",
+        "stream": true
+      }
+    ]
+  },
+  "foxy_voiceline1": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.voice",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:foxy_voiceline1",
+        "stream": true
+      }
+    ]
+  },
+  "foxy_voiceline2": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.voice",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:foxy_voiceline2",
+        "stream": true
+      }
+    ]
+  },
+  "foxy_voiceline3": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.voice",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:foxy_voiceline3",
+        "stream": true
+      }
+    ]
+  },
+  "golden_jumpscare": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.jumpscare",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:golden_jumpscare",
+        "stream": true
+      }
+    ]
+  },
+  "golden_noise": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.noise",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:golden_noise",
+        "stream": true
+      }
+    ]
+  },
+  "golden_warning": {
+    "category": "hostile",
+    "subtitle": "subtitle.five_nights_at_minecraft.warning",
+    "sounds": [
+      {
+        "name": "five_nights_at_minecraft:golden_warning",
+        "stream": true
+      }
+    ]
+  }
+}
